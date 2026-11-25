@@ -1,0 +1,52 @@
+{
+  "titulo": "codigos-numerados-2026-11-25 (3)",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "1.html",
+      "nome": "Auditoria Financeira — Calculadora Sentença (v25/11-K)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "2.html",
+      "nome": "Calculadora de Sentença — Modelo Geral (v25/11-A)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "3.html",
+      "nome": "Auditoria Financeira — Calculadora Sentença",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "4.html",
+      "nome": "Montador Simples (v25/11-B)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "5.html",
+      "nome": "Montador Simples (v25/11-B)",
+      "desc": "",
+      "on": false,
+      "icone": "icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "Maikon Caldeira — Aplicativos",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "dourado",
+  "links": []
+}
